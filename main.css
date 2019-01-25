@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#author{
+    display: flex;
+    text-align: right;
+}
+#button{
+    display: flex;
+    size: 200px;
+    justify-content: right;
+}
